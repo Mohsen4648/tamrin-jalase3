@@ -1,0 +1,8 @@
+Num1=int(input("give me a number : "))
+Num2=int(input("give me a number : "))
+print (str(Num1+Num2))
+print (str(Num1-Num2))
+print (str(Num1*Num2))
+print (str(Num1/Num2))
+print (str(Num1//Num2))
+print (str(Num1%Num2))
