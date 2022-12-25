@@ -1,10 +1,10 @@
 def give():
-    a=int(input("give a Number :"))
+    a=int(input(""))
     return a
 
 a=give()
-if 0 < a < 100 :
+if 1 <= a <= 100 :
     for i in range (a):
-     print ("man khoshghlab hastam ")
+     print ("man khoshghlab hastam")
 else :
-    print("wrong Number")
+    print("Wrong Number")
